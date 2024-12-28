@@ -8,7 +8,7 @@ import org.wipro.automation.aumw.basePkg.InitiateBrowser;
 import org.wipro.automation.aumw.dataGenerators.TestDataGenerator;
 import org.wipro.automation.aumw.pages.LoginPage;
 
-public class LoginScenario extends InitiateBrowser
+public class LoginScenario2 extends InitiateBrowser
 {
 
 	@Test
